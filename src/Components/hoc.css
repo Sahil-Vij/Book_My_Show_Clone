@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{ 
+    height:100vh;
+}
+section{
+    height:100vh;
+}
+.one{
+    background-color:rgb(51, 53, 69);
+    color:whitesmoke;
+    
+}
+.two{
+    background-color:rgb(51, 53, 69);
+    color:white;
+   
+}
