@@ -15,8 +15,7 @@ const[input,setInput]=useState('');
 
   function getData(data){
     console.log(data);
-     if(input===''){
-      setInput(data);
+     
       
      }
   }
